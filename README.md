@@ -1,2 +1,2 @@
 # sbi
-Application of Simulation-Based Inference (SBI) approaches to biophysical microstructural models in diffusion MRI.
+Simulation-Based Inference (SBI) approaches applied to biophysical microstructural models in diffusion MRI.
